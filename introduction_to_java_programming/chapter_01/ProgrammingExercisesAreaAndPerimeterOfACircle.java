@@ -1,7 +1,7 @@
 public class ProgrammingExercisesAreaAndPerimeterOfACircle {
     public static void main(String[] args) {
         System.out.println("1.8 (Area and perimeter of a circle) " +
-                "Write a program that displays the area and perimeter of a circle" +
+                "Write a program that displays the area and perimeter of a circle " +
                 "that has a radius of 6.5 using the following formula:");
         System.out.println();
         System.out.println("Pi = 3.14159");
